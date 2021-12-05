@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saraabraham
+- 👋 Hi, I’m Sara
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on projects with latest technologies.
