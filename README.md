@@ -6,6 +6,7 @@
 -I am certified in the following courses:
  -Responsive Web Design
  -Introduction to programming in C.
+ -Aws Certified Cloud Practitioner
 <!---
 saraabraham/saraabraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
