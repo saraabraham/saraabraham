@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sara
 - 👀 I’m interested in learning how to code.
-- 🌱 I am currently preparing for AWS practitioner exam.
+- 🌱 I am certified AWS cloud practitioner and wannabe solution architect.
 - 💞️ I’m looking to collaborate on projects with latest technologies.
 - 📫 How to reach me : sara.abraham12@gmail.com
 -I am certified in the following courses:
