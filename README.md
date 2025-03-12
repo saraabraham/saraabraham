@@ -1,16 +1,17 @@
 # Sara Abraham - Aspiring Junior Full Stack Developer
 
-Hello! I'm Sara, a highly motivated and rapidly learning individual transitioning into the world of full stack development. My journey is driven by a passion for building robust and user-centric applications.
+Hello! I'm Sara and I am an individual who is rapidly transitioning into the world of full stack development. My journey is driven by a passion for building robust and user-centric applications.
 
 **My Focus:**
 
-My primary goal is to become a proficient Junior Full Stack Developer. I am actively expanding my skillset in both front-end and back-end technologies, with a strong emphasis on practical application and collaborative learning.
+My primary goal is to become a proficient Full Stack Developer. I am actively expanding my skillset in both front-end and back-end technologies, with a strong emphasis on practical application and collaborative learning.
 
 **Key Skills and Experience:**
 
 * **Cloud Computing:** AWS Certified Cloud Practitioner. I understand the fundamentals of cloud infrastructure and its role in modern application development. This knowledge provides a solid foundation for deploying and managing scalable applications.
+* **Work Experience:** I worked as an SAP ABAP developer at Infosys for 1.5years.
 * **Front-End Development:** Proficient in Responsive Web Design principles. I have hands-on experience in creating engaging and accessible user interfaces.
-* **Programming Fundamentals:** Solid understanding of C programming, which has instilled in me a strong foundation in algorithmic thinking and problem-solving.
+* **Programming Fundamentals:** Solid understanding of programming in Java/Python, which has instilled in me a strong foundation in algorithmic thinking and problem-solving.
 * **Eagerness to Learn:** I am a quick learner and constantly seeking opportunities to expand my knowledge in emerging technologies and development practices.
 * **Collaborative Spirit:** I thrive in collaborative environments and am eager to contribute to team projects.
 
