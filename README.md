@@ -1,4 +1,4 @@
-# Sara Abraham - Aspiring Junior Full Stack Developer
+# Sara Abraham - Aspiring Full Stack Developer
 
 Hello! I'm Sara and I am an individual who is rapidly transitioning into the world of full stack development. My journey is driven by a passion for building robust and user-centric applications.
 
